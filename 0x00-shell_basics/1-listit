@@ -1,10 +1,2 @@
-Applications
-Documents
-Dropbox
-Movies
-Pictures
-Desktop
-Downlaods
-Library
-Music
-Public
+#!/bin/bash
+ls
