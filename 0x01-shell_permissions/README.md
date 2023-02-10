@@ -7,4 +7,5 @@ Shell Permission
 5-execute file adds execute permission to the owner of the file "hello".
 6-multiple_permissions consits of a script that executes permission to the owner and the group owner, and read permission to other users, to the file "hello".
 7-everybody consists of a script that adds execution permission to all users to the file "hello".
-8-James_Bond consists of a script that has set owner to no permission at all, group owners to no permission and other users have all permissions. 
+8-James_Bond consists of a script that has set owner to no permission at all, group owners to no permission and other users have all permissions.
+9-John_Doe sets mode of file to -rwxr-x-wx. 
