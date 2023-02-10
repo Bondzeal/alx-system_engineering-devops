@@ -13,4 +13,7 @@ Shell Permission
 11-directories_permissions adds execute permission to all subdirectories of current directory for all.
 12-directory_permissions creates a directory called "my_dir" with permission 751.
 13-change_group consists of a script that changes the group owner.
-100-change_owner_and_group changes owner and group owner 
+100-change_owner_and_group changes owner and group owner
+101-symbolic_link_permissions changes the owner and the group owner of "_hello" to "vincent" and "staff" respectively.
+102-if_only changes the owner of the file "hello" to "betty" only if is owned by the user "guillaume".
+103-Star_Wars consists of a script that plays StarWarsIV episode in the terminal. 
