@@ -10,4 +10,5 @@ Shell Permission
 8-James_Bond consists of a script that has set owner to no permission at all, group owners to no permission and other users have all permissions.
 9-John_Doe sets mode of file to -rwxr-x-wx.
 10-mirror_permissions sets mode of "hello" file same as "olleh" mode.
-11-directories_permissions adds execute permission to all subdirectories of current directory for all. 
+11-directories_permissions adds execute permission to all subdirectories of current directory for all.
+12-directory_permissions creates a directory called "my_dir" with permission 751. 
